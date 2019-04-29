@@ -1,0 +1,154 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="paulinaguzdziol.com" resolutions="1x" timestamp="1556536300675">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-wzorcowa.css" crc="234872485" ref="digital-art:about-me:traditional-art:contact"/>
+    <file name="digital-art.css" crc="329433369" ref="digital-art"/>
+    <file name="about-me.css" crc="59358170" ref="about-me"/>
+    <file name="traditional-art.css" crc="3806848642" ref="traditional-art"/>
+    <file name="contact.css" crc="4017255804" ref="contact"/>
+    <file name="index.css" crc="4143574346" ref="index"/>
+    <file name="nomq_preview_master_a-wzorcowa.css" crc="3824530138" ref="contact:traditional-art:about-me:digital-art"/>
+    <file name="nomq_contact.css" crc="3997248159" ref="contact"/>
+    <file name="nomq_traditional-art.css" crc="3962548521" ref="traditional-art"/>
+    <file name="nomq_about-me.css" crc="429202156" ref="about-me"/>
+    <file name="nomq_digital-art.css" crc="364565657" ref="digital-art"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about-me:traditional-art:digital-art:contact"/>
+    <file name="museutils.js" crc="340535759" ref="index:about-me:traditional-art:digital-art:contact"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about-me:traditional-art:digital-art:contact"/>
+    <file name="museconfig.js" crc="310584261" ref="index:about-me:traditional-art:digital-art:contact"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:about-me:traditional-art:digital-art:contact"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:about-me:traditional-art:digital-art:contact"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about-me:traditional-art:digital-art:contact"/>
+    <file name="require.js" crc="7928878" ref="index:about-me:traditional-art:digital-art:contact"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="about-me:traditional-art:digital-art:contact"/>
+  </folder>
+  <folder name="images">
+    <file name="logo2.jpg" crc="3768407647" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo.jpg" crc="127028738" seo="true" ref="about-me:traditional-art:digital-art:contact">
+      <caption webpage="digital-art" alt=""/>
+      <caption webpage="digital-art" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="traditional-art" alt=""/>
+      <caption webpage="traditional-art" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="u787-17.png" crc="122091756" ref="about-me"/>
+    <file name="img_0099.jpg" crc="338461656" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="img_0159.jpg" crc="4262171270" seo="true" ref="traditional-art">
+      <caption webpage="traditional-art" alt=""/>
+      <caption webpage="traditional-art" alt=""/>
+    </file>
+    <file name="img_2289.jpg" crc="4133455269" seo="true" ref="traditional-art">
+      <caption webpage="traditional-art" alt=""/>
+      <caption webpage="traditional-art" alt=""/>
+    </file>
+    <file name="img_0634.jpg" crc="4154210123" seo="true" ref="traditional-art">
+      <caption webpage="traditional-art" alt=""/>
+      <caption webpage="traditional-art" alt=""/>
+    </file>
+    <file name="img_2616.jpg" crc="379558864" seo="true" ref="traditional-art">
+      <caption webpage="traditional-art" alt=""/>
+      <caption webpage="traditional-art" alt=""/>
+    </file>
+    <file name="img_0314.jpg" crc="4020302573" seo="true" ref="traditional-art">
+      <caption webpage="traditional-art" alt=""/>
+      <caption webpage="traditional-art" alt=""/>
+    </file>
+    <file name="img_0637.jpg" crc="3859971263" seo="true" ref="traditional-art">
+      <caption webpage="traditional-art" alt=""/>
+      <caption webpage="traditional-art" alt=""/>
+    </file>
+    <file name="img_4717.jpg" crc="3836020886" seo="true" ref="traditional-art">
+      <caption webpage="traditional-art" alt=""/>
+      <caption webpage="traditional-art" alt=""/>
+    </file>
+    <file name="img_0718.jpg" crc="3916634340" seo="true" ref="traditional-art">
+      <caption webpage="traditional-art" alt=""/>
+      <caption webpage="traditional-art" alt=""/>
+    </file>
+    <file name="img_3083.jpg" crc="112929085" seo="true" ref="traditional-art">
+      <caption webpage="traditional-art" alt=""/>
+      <caption webpage="traditional-art" alt=""/>
+    </file>
+    <file name="img_2261.jpg" crc="3961034951" seo="true" ref="traditional-art">
+      <caption webpage="traditional-art" alt=""/>
+      <caption webpage="traditional-art" alt=""/>
+    </file>
+    <file name="img_4181.jpg" crc="439872435" seo="true" ref="traditional-art">
+      <caption webpage="traditional-art" alt=""/>
+      <caption webpage="traditional-art" alt=""/>
+    </file>
+    <file name="01.jpg" crc="408031581" seo="true" ref="digital-art">
+      <caption webpage="digital-art" alt=""/>
+    </file>
+    <file name="08.jpg" crc="206208871" seo="true" ref="digital-art">
+      <caption webpage="digital-art" alt=""/>
+      <caption webpage="digital-art" alt=""/>
+    </file>
+    <file name="05.jpg" crc="4292579479" seo="true" ref="digital-art">
+      <caption webpage="digital-art" alt=""/>
+      <caption webpage="digital-art" alt=""/>
+    </file>
+    <file name="06.jpg" crc="303001200" seo="true" ref="digital-art">
+      <caption webpage="digital-art" alt=""/>
+      <caption webpage="digital-art" alt=""/>
+    </file>
+    <file name="sketch.jpg" crc="185033592" seo="true" ref="digital-art">
+      <caption webpage="digital-art" alt=""/>
+      <caption webpage="digital-art" alt=""/>
+    </file>
+    <file name="bitmap illustration (1713456).jpg" crc="3805528240" seo="true" ref="digital-art">
+      <caption webpage="digital-art" alt=""/>
+    </file>
+    <file name="07.jpg" crc="5833612" seo="true" ref="digital-art">
+      <caption webpage="digital-art" alt=""/>
+      <caption webpage="digital-art" alt=""/>
+    </file>
+    <file name="linkedin.png" crc="3947954918" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="whatsapp.png" crc="4030155855" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="github.png" crc="477605199" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="facebook (1).png" crc="4031561757" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="instagram.png" crc="162137009" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="telegram.png" crc="4125330855" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="u787-172.png" crc="3907669233" ref="about-me"/>
+    <file name="blank.gif" crc="4208392903" ref="about-me:traditional-art:digital-art:contact"/>
+    <file name="01163x130.jpg" crc="4174899799" seo="true" ref="digital-art">
+      <caption webpage="digital-art" alt=""/>
+    </file>
+    <file name="bitmap illustration (1713456)163x163.jpg" crc="10106619" seo="true" ref="digital-art">
+      <caption webpage="digital-art" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3761525036" seo="true" mt="1556533557736" redirect="true"/>
+  <file name="about-me.html" crc="4168462629" seo="true" mt="1556535637943" redirect="true"/>
+  <file name="traditional-art.html" crc="246131396" seo="true" mt="1556535637943" redirect="true"/>
+  <file name="digital-art.html" crc="392504712" seo="true" mt="1556535747749" redirect="true"/>
+  <file name="contact.html" crc="4073036336" seo="true" mt="1556535637943" redirect="true"/>
+</manifest>
